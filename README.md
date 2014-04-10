@@ -1,7 +1,5 @@
 RHJOIN
 =================
-This is the project of RHJoin.
-
 RHJoin is a MapReduce-based join method for big log processing. Compared to other methods, RHJoin is more balanced and suitable for big log procesing. Specifically, RHJoin is designed to achieve linear scalability, efficient space utilization and high query speed. 
 
 This package includes two parts:
